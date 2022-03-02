@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_address</OriginalElement>
+  <nodes>
+    <node x="32.0" y="281.0">9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_patients</node>
+    <node x="138.26800057372338" y="728.7412507171543">9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_relationship</node>
+    <node x="0.0" y="0.0">9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_address</node>
+    <node x="178.89137502390508" y="16.67412507171545">9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_code</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_relationship" target="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_code">
+      <point x="25.125" y="-148.5" />
+      <point x="218.5" y="647.0" />
+      <point x="258.0625" y="647.0" />
+      <point x="258.0625" y="256.0" />
+      <point x="254.5" y="256.0" />
+      <point x="0.0" y="104.5" />
+    </edge>
+    <edge source="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_patients" target="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_code">
+      <point x="46.5" y="-170.5" />
+      <point x="171.5" y="256.0" />
+      <point x="202.83333333333334" y="256.0" />
+      <point x="-51.66666666666666" y="104.5" />
+    </edge>
+    <edge source="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_patients" target="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_address">
+      <point x="-46.5" y="-170.5" />
+      <point x="0.0" y="115.5" />
+    </edge>
+    <edge source="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_relationship" target="9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_patients">
+      <point x="-25.125" y="-148.5" />
+      <point x="168.25" y="647.0" />
+      <point x="171.5" y="647.0" />
+      <point x="46.5" y="170.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5287158746208294" x="233.7199243965979" y="390.9715050678904" />
+  <SelectedNodes>
+    <node>9e322920-348f-454f-b249-8eb6cc51363b.TABLE:partner.partner.hr_code</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+

@@ -1,0 +1,17 @@
+Backend.sql.test
+Feladat olvasása, megértése: 10p
+DB stuktúra átgondolása és db diagram: 90p
+SQL fájlok létrehozása, tesztadatok, és tesztelés: 45p
+Triggerek létrehozása, tesztelése: 30p
+
+Backend.java.test
+Környezet összerakása 30p
+H2 működésének megértése és használata 40p
+Adatbázis létrehozás kapcsolatokkal, tesztadatokkal 40p
+APIk implementálása,entitásokkal,servizekkel 180p
+CORS implementálása, utánajárással 60p
+Spring Security implementálása,utánajárással 150p
+
+
+
+Teszt esetek megírása  180p
